@@ -7,7 +7,7 @@
 - ⚡ I like creating CI/CD pipelines
 
 ### 💻 Languages and Tools:
-<p align="left"><img src="https://github.com/github/explore/raw/main/topics/aws/aws.png" alt="aws" width="50" height="50"/> <img src="https://github.com/github/explore/raw/main/topics/bash/bash.png" alt="bash" width="50" height="50"/> <img
+<p align="left"><img src="https://github.com/github/explore/raw/main/topics/aws/aws.png" alt="aws" width="50" height="50"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" alt="Azure" width="50" height="50"/> <img src="https://github.com/github/explore/raw/main/topics/bash/bash.png" alt="bash" width="50" height="50"/> <img
 src="https://github.com/github/explore/raw/main/topics/python/python.png" alt="python" width="50" height="50"/> <img
 src="https://github.com/github/explore/raw/main/topics/docker/docker.png" alt="docker" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/> <img src="https://github.com/github/explore/raw/main/topics/linux/linux.png" alt="linux" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21~bgwhite.svg" alt="terraform" width="100" height="40"/> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="50" height="50"/>  
 </p>
