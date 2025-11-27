@@ -1,9 +1,9 @@
 ### Hi there, I'm Vignesh 👋 ![](https://komarev.com/ghpvc/?username=VigneshAKunder&color=orange&&style=flat)
 
 
-- 🔭 Cloud and DevOps Engineer 
+- 🔭 Cloud and DevOps Engineer
 - 🌱 I’m currently learning DevOps & AI related stuff
-- 👯 I’m looking to collaborate on anything and everything in Cloud and DevOps domain
+- 👯 I’m willing to collaborate on anything in Cloud and DevOps domains
 - ⚡ I like creating CI/CD pipelines
 
 ### 💻 Languages and Tools:
