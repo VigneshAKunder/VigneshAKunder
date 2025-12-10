@@ -3,7 +3,6 @@
 
 - 🔭 Cloud and DevOps Engineer
 - 🌱 I’m currently learning DevOps & AI related stuff
-- 👯 I’m willing to collaborate on anything in Cloud and DevOps domains
 - ⚡ I like creating CI/CD pipelines
 
 ### 💻 Languages and Tools:
