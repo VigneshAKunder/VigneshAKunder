@@ -13,7 +13,7 @@ src="https://github.com/github/explore/raw/main/topics/docker/docker.png" alt="d
 
 ### ⚡ GitHub Statistics:
 <p align="left">
-<img  src="https://github-readme-stats.vercel.app/api?username=VigneshAKunder&show_icons=true&theme=radical" alt="VigneshAKunder" width="400" height="180" />
+<img  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=VigneshAKunder&show_icons=true&theme=radical" alt="VigneshAKunder" width="400" height="180" />
 </p>
 
 ### 📫 How to reach me:
