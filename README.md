@@ -18,7 +18,7 @@ src="https://github.com/github/explore/raw/main/topics/docker/docker.png" alt="d
 
 ### 📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/vignesh-appu-kunder-b6679616a" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="VigneshAppuKunder" /></a>
+<a href="https://www.linkedin.com/in/vigneshappukunder" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="VigneshAppuKunder" /></a>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
