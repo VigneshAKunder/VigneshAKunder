@@ -14,7 +14,7 @@
 
 ### ⚙️ Tech Stack:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,bash,python,docker,git,ansible,gitlab,kubernetes,linux,terraform,grafana" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,bash,python,docker,git,ansible,githubactions,gitlab,kubernetes,linux,terraform,prometheus,grafana" />
 </p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
